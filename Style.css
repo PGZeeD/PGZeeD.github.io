@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+SC&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  background-color: white;
+  max-width: 1115px;
+}
+
+.contenedor-principal {
+  width: 1500px;
+  height: 1500px;
+  background-color: black;
+  display: flex;
+}
+.encabezado {
+  padding-top: 10px;
+  padding-left: 10px;
+  color: #123149;
+  background-color: #1f97cf;
+  height: 135px;
+  width: 1000px;
+  display: inline-block;
+  right: 50%;
+}
+h1 {
+  padding-top: 30px;
+  background-color: #1f97cf;
+  text-align: center;
+  font-size: 15mm;
+  right: 50%;
+}
+.foto {
+  padding: 10px 10px 10px 10px;
+  width: 125x;
+  height: 125px;
+  background-color: #20d2d8;
+  display: none;
+}
